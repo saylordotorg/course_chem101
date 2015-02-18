@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM101: General Chemistry I"
+course_description: "A detailed introduction to the basic principles and methods of chemistry, which are the foundation to all subsequent chemistry courses. Surveys the metric system, scientific notation and significant figures, the atom and atomic theories, trends of the periodic table of the elements, bonding, molecular geometry, chemical formulas, stoichiometry, gas laws, thermochemistry, and thermodynamics."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Thermochemistry and Thermodynamics** <span id="6"></span> 
 *In this unit, we will take a look at energy as it relates to chemistry
 and chemical reactions. We will study both thermochemistry, which deals

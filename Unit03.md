@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM101: General Chemistry I"
+course_description: "A detailed introduction to the basic principles and methods of chemistry, which are the foundation to all subsequent chemistry courses. Surveys the metric system, scientific notation and significant figures, the atom and atomic theories, trends of the periodic table of the elements, bonding, molecular geometry, chemical formulas, stoichiometry, gas laws, thermochemistry, and thermodynamics."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Bonding** <span id="3"></span> 
 *Bonds are connections between atoms. (Note that although we will focus
 on bonds in this unit, there are additional forces that affect atoms,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM101: General Chemistry I"
+course_description: "A detailed introduction to the basic principles and methods of chemistry, which are the foundation to all subsequent chemistry courses. Surveys the metric system, scientific notation and significant figures, the atom and atomic theories, trends of the periodic table of the elements, bonding, molecular geometry, chemical formulas, stoichiometry, gas laws, thermochemistry, and thermodynamics."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Matter and Measurements** <span id="1"></span> 
 *Our first step in this course is to gain a basic understanding of
 matter and define the basic terminology used to describe matter. This
